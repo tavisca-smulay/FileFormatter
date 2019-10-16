@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10" class="java.beans.XMLDecoder">
+ <array class="Employee" length="6">
+  <void index="0">
+   <object class="Employee">
+    <void property="departmentID">
+     <int>101</int>
+    </void>
+    <void property="employeeID">
+     <int>1</int>
+    </void>
+    <void property="employeeName">
+     <string>Shivani</string>
+    </void>
+    <void property="salary">
+     <int>100000</int>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="Employee">
+    <void property="departmentID">
+     <int>102</int>
+    </void>
+    <void property="employeeID">
+     <int>2</int>
+    </void>
+    <void property="employeeName">
+     <string>Rajat</string>
+    </void>
+    <void property="salary">
+     <int>200000</int>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="Employee">
+    <void property="departmentID">
+     <int>103</int>
+    </void>
+    <void property="employeeID">
+     <int>3</int>
+    </void>
+    <void property="employeeName">
+     <string>Anoop</string>
+    </void>
+    <void property="salary">
+     <int>300000</int>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="Employee">
+    <void property="departmentID">
+     <int>104</int>
+    </void>
+    <void property="employeeID">
+     <int>4</int>
+    </void>
+    <void property="employeeName">
+     <string>Akshay</string>
+    </void>
+    <void property="salary">
+     <int>400000</int>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="Employee">
+    <void property="departmentID">
+     <int>105</int>
+    </void>
+    <void property="employeeID">
+     <int>5</int>
+    </void>
+    <void property="employeeName">
+     <string>Raja</string>
+    </void>
+    <void property="salary">
+     <int>500000</int>
+    </void>
+   </object>
+  </void>
+  <void index="5">
+   <object class="Employee">
+    <void property="departmentID">
+     <int>106</int>
+    </void>
+    <void property="employeeID">
+     <int>6</int>
+    </void>
+    <void property="employeeName">
+     <string>Shirin</string>
+    </void>
+    <void property="salary">
+     <int>600000</int>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>

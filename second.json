@@ -1,0 +1,38 @@
+[
+  {
+    "employeeID": 1,
+    "employeeName": "Shivani",
+    "departmentID": 101,
+    "salary": 100000
+  },
+  {
+    "employeeID": 2,
+    "employeeName": "Rajat",
+    "departmentID": 102,
+    "salary": 200000
+  },
+  {
+    "employeeID": 3,
+    "employeeName": "Anoop",
+    "departmentID": 103,
+    "salary": 300000
+  },
+  {
+    "employeeID": 4,
+    "employeeName": "Akshay",
+    "departmentID": 104,
+    "salary": 400000
+  },
+  {
+    "employeeID": 5,
+    "employeeName": "Raja",
+    "departmentID": 105,
+    "salary": 500000
+  },
+  {
+    "employeeID": 6,
+    "employeeName": "Shirin",
+    "departmentID": 106,
+    "salary": 600000
+  }
+]
